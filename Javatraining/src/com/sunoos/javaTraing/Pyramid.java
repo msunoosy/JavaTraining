@@ -4,7 +4,7 @@ public class Pyramid {
 
 	void printPyramid() {
 
-		int input = 4;
+		int input = 10;
 
 		for (int i = 1; i <= input; i++) {
 			for (int k = 1; k <= input - i; k++) {
