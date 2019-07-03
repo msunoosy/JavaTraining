@@ -21,6 +21,8 @@ public class Muliplicationtable {
 	public static void main(String[] args) {
 		Pyramid p=new Pyramid();
 		p.printPyramid();
+		
+	
 	}
 
 }
